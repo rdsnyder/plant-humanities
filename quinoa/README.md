@@ -28,7 +28,7 @@ The word quinoa comes from Quechua, an Indigenous language family spoken in the 
 {#paragraph3}
 
 In 1725, Louis Feuillée, French botanist, astronomer, and geographer authored the first scientific description of quinoa that included a botanical engraving.[^3] Compared with popular images of quinoa today, which highlight large, colorful sprouting quinoa, the engraving makes clear the leaf and root structures; the <span data-mouseover-image-zoomto="195,120,733,647">panicle</span> atop the plant, where the edible seeds grow, is hidden behind the leaves. The late eighteenth century German botanist Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name _Chenopodium quinoa_ in 1798.[^4]
-<param ve-image url="Feuillee.jpg" fit="contain" title="Engraving of Chenopodium quinoa in Feuillée, Journal des observations physiques, mathematiques et botaniques (1725)" attribution="Biblioteca Digital del Real Jardín Botánico" license="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/Feuillee.jpg" fit="contain" title="Engraving of Chenopodium quinoa in Feuillée, Journal des observations physiques, mathematiques et botaniques (1725)" attribution="Biblioteca Digital del Real Jardín Botánico" license="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 <param ve-entity eid="Q1871688">
 <param ve-entity eid="Q76353">
 <param ve-entity eid="Q148600">
@@ -47,30 +47,30 @@ Archaeological evidence suggests that quinoa was likely first domesticated more 
 {#paragraph6}
 
 For centuries, quinoa has been recognized for its exceptional nutritional qualities. Indigenous people also considered it healthy because of its medicinal properties, although Europeans mostly ignored these attributes. The famed sixteenth-century colonial chronicler <span eid="Q334711">Inca Garcilaso de la Vega</span>, son of a Spanish conquistador and an Inca noblewoman, explained that “the Indian inhabitants use flour made of quinoa in various illnesses.”[^8]  Today’s ethnobotanical researchers have documented that quinoa was used to treat broken bones by immobilizing limbs and making poultices.[^9] Quinoa was also used in coca chewing, a long-standing tradition among Indigenous Andean peoples to alleviate altitude sickness, fatigue, and hunger. To extract the stimulant properties of coca, Andeans made llipta, an alkaline ash powder often made from quinoa stalks.
-<param ve-image url="manCoca.jpg" title="Standing figurine chewing coca from the Inca period." attribution="Dumbarton Oaks. Object Number PC.B.474" fit="contain">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/manCoca.jpg" title="Standing figurine chewing coca from the Inca period." attribution="Dumbarton Oaks. Object Number PC.B.474" fit="contain">
 <param ve-entity eid="Q718781">
 <param ve-entity eid="Q70702">
 {#paragraph7}
 
 ### Quinoa in the Colonial Period
 Spanish colonization in the sixteenth century brought significant changes to farmers growing quinoa. As part of the Columbian Exchange, the Spaniards brought wheat, barley, rice, and other crops from the Old World and introduced them to Andean farming systems. Early colonial policies made Indigenous people pay a tribute tax, which could only be paid in wheat or barley. As the geographer Karl Zimmerer explains, this policy essentially forced farmers to grow less quinoa and more European crops. Nevertheless, despite the impositions of Spanish colonialism, Indigenous people continued to grow quinoa.[^10]
-<param ve-image url="Exchange.jpg" fit="contain" title="Map showing the transfer of important plants, animals, and diseases to and from the New and Old Worlds." attribution="OpenStax" license="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/Exchange.jpg" fit="contain" title="Map showing the transfer of important plants, animals, and diseases to and from the New and Old Worlds." attribution="OpenStax" license="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 <param ve-entity eid="Q767253">
 {#paragraph8}
 
 In an illustrated chronicle written in 1615 in the form of a letter to the king of Spain, the Indigenous nobleman <span eid="Q473217">Felipe Guaman Poma de Ayala</span> explained the agricultural habits of Indigenous Andeans. Alongside quinoa, they grew potatoes, oca (a tuber), maize, coca, and many other plants. Guaman Poma explained that in September, farmers planted quinoa. While the Inca did not have a writing system, they devised a way to maintain important records on knotted threads called a <span data-mouseover-image-zoomto="171,753,765,675">quipu</span>. While present-day scholars have not discovered how to read quipus, it is likely that they served more as a recording device than a formal writing system. Guaman Poma explained that “\[The Royal Accountant\] kept track of the amount of wool of the deer called _taruca_, that of the Indians, and the food called quinoa. He counted the quinoa and the Indians. He was very capable, as if he used paper and ink.”[^11] In this context, Guaman Poma relayed to the Spanish king quinoa's place in sophisticated Andean administrative methods. Other than this description, quinoa mostly figures as one crop among a wide variety of cultivated tubers, grains, and other plants.
-<param ve-image url="Poma1.jpg" fit="contain" title="Illustrations by Guaman Poma showing Inca accountants using a quipu." license="https://creativecommons.org/licenses/by/4.0/" attribution="Ministerio de Cultura y Deporte de España, Biblioteca Virtual de Patrimonio Bibliografíca">
-<param ve-image url="Poma2.jpg" fit="contain">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/Poma1.jpg" fit="contain" title="Illustrations by Guaman Poma showing Inca accountants using a quipu." license="https://creativecommons.org/licenses/by/4.0/" attribution="Ministerio de Cultura y Deporte de España, Biblioteca Virtual de Patrimonio Bibliografíca">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/Poma2.jpg" fit="contain">
 <param ve-entity eid="Q1355893" title="oca">
 <param ve-entity eid="Q185292">
 {#paragraph9}
 
 In general, Spanish colonizers rejected all types of Indigenous foods in part because they associated it with Indigenous people and in part because they suspected that the foreign foods would harm their bodies.[^12] Over time, countless New World foods, such as maize, chocolate, peppers, tomatoes, pineapples, and potatoes, became widely popular in Europe.[^13] Some of the earliest Spanish explorers and chroniclers of the Andes were fascinated by quinoa, but it took much longer for quinoa to become popular outside the Andes compared to other plants. Garcilaso explained that both Indigenous people and Spaniards enjoyed quinoa in various soups and stews “for they are tasty and very nourishing.”[^14]
-<param ve-iframe src="https://archive.org/details/royalcommentarie0000vega/page/498/mode/2up?view=theater">
+<param ve-iframe src="https://archive.org/details/royalcommentarie0000vega/page/498/mode/2up?view=theater" caption="A caption">
 {#paragraph10}
 
 Whether the Spanish enjoyed quinoa as much as Garcilaso suggests is not entirely clear. For one, the tribute policy and the continual decline in quinoa production throughout the colonial period suggest that the Spanish did not quite so appreciate quinoa. Sometimes called the first “mestizo”—a person of mixed Indigenous and Spanish descent—Garcilaso sought to defend racial mixing at a time when Spaniards marginalized mestizos. His excellent early account of Indigenous customs, including quinoa consumption, describes how Indigenous people made quinoa into a beverage, brewing it along with maize into a beer known as chicha. Today, chicha remains an important part of Andean societies, although it is most often made exclusively with corn. During ceremonies, and before taking a sip, attendees spill several drops of chicha onto the ground as an offering  to Pachamama, a deity in Indigenous Andean cosmologies that is similar to the idea of "Mother Earth."[^15]
-<param ve-image url="Llama effigy.jpg" region="85,433,2284,2015" title="A small llama effigy made of stone used in Inca rituals. The hole in the back would be filled with coca and llama fat to perform offerings." attribution="Dumbarton Oaks. Object Number PC.B.431">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/Llama effigy.jpg" region="85,433,2284,2015" title="A small llama effigy made of stone used in Inca rituals. The hole in the back would be filled with coca and llama fat to perform offerings." attribution="Dumbarton Oaks. Object Number PC.B.431">
 <param ve-entity eid="Q106713">
 <param ve-entity eid="Q516592">
 <param ve-entity eid="Q266462">
@@ -91,12 +91,12 @@ Since the recent rise in international interest in quinoa, scholars in a variety
 {#paragraph14}
 
 Scientists and international development agencies, such as the FAO, have hailed quinoa as an important crop to alleviate the challenges of global hunger and maintaining world’s food supply exacerbated by climate change and a narrowing of crop diversity. Wheat, rice, and corn make up two-thirds of all calories consumed, and we rely on very few varieties of those crops. This means that pests, diseases, and unforeseen climate disasters could dramatically impact global public health if there is a major crop failure.[^20] As such, policymakers and leaders have encouraged diversifying diets and the genetic makeup of agricultural farms. In 2011, Bolivian officials claimed that quinoa was an “ancient crop to contribute to world food security.”[^21] The FAO agreed and thus was born the International Year of Quinoa.
-<param ve-image url="cropDiversityresize.jpeg" fit="contain" title="Geographical distribution of crop diversity around the world." license="https://creativecommons.org/licenses/by/4.0/" attribution="International Center for Tropical Agriculture (CIAT)">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/cropDiversityresize.jpg" fit="contain" title="Geographical distribution of crop diversity around the world." license="https://creativecommons.org/licenses/by/4.0/" attribution="International Center for Tropical Agriculture (CIAT)">
 <param ve-entity eid="Q5187949">
 {#paragraph15}
 
 Why does quinoa have so much potential? In short, because of its cultural, nutritional, and ecological characteristics. In an era of multiculturalism, crops with a long history and cultural significance among marginalized populations have become appealing to consumers and international policymakers. And in the context of globalization, fears of losing cultural traditions motivate efforts to preserve "traditional" knowledge and ways of living. One can see the results of this mindset in the slogan for the International Year of Quinoa: "A future sown thousands of years ago." Quinoa's success has made it "a poster child for multicultural development to integrate cultural difference" into a path toward economic growth.[^22]
-<param ve-image url="IYQ Logo_color.jpg" title="The official logo of the 2013 International Year of Quinoa" region="10,-60,492,434" attribution="Food and Agricultural Organization">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/IYQ Logo_color.jpg" title="The official logo of the 2013 International Year of Quinoa" region="10,-60,492,434" attribution="Food and Agricultural Organization">
 {#paragraph16}
 
 Quinoa is better nutritionally than many other grain crops, such as wheat, rice, or barley. The first chemical analysis to show this was performed in 1850. Augustus Voelcker, a chemist at the Royal Agricultural College in Cirencester, England, determined that quinoa contains 19 percent protein by mass—not far off from today’s estimates of 15 percent. It would take almost a century and a half, however, for quinoa’s nutritional facts to be widely appreciated.[^23] Today's scientists continue to hail quinoa as a better source of protein, because it has almost twice as much compared to rice and slightly higher than wheat. The quality of the protein is better, too. Scientists have determined that quinoa is a high-quality protein source and one of a handful of crops that contain all essential amino acids.[^24]
@@ -134,9 +134,9 @@ height="750">
 {#paragraph21}
 
 The patent disputes and present-day issues of Indigenous and state sovereignty over potentially valuable plant resources show that the ethical dilemmas of quinoa consumption go beyond questions of profits and fair compensation in the short-term. Copper mining near quinoa farms threatens the sustainability of quinoa production for Peruvian and Bolivian farmers as the two industries are fundamentally at odds with one another.[^30] Overall, quinoa’s history forces us to question whether and how we can improve global nutrition by eating foods from around the world while protecting the interests of the communities that have stewarded those foods for centuries.
-<param ve-image url="felineGold.jpg" fit="contain" title="For thousands of years, Andean peoples have used gold, silver, and other metals to make goods and jewlery. The environmental and human toll of mining greatly accelerated during the Spanish colonial and modern era of mining technology and methods. Today, highly extractive methods jeapordize healthy agricultural systems.">
-<param ve-image url="pinParrotCorn.jpg" fit="contain">
-<param ve-image url="LasBambas.jpg" fit="contain">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/felineGold.jpg" fit="contain" title="For thousands of years, Andean peoples have used gold, silver, and other metals to make goods and jewlery. The environmental and human toll of mining greatly accelerated during the Spanish colonial and modern era of mining technology and methods. Today, highly extractive methods jeapordize healthy agricultural systems.">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/pinParrotCorn.jpg" fit="contain">
+<param ve-image url="https://raw.githubusercontent.com/plant-humanities/media/main/quinoa/LasBambas.jpg" fit="contain">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/97/OperacionesYanacocha.jpg" fit="contain">
 {#paragraph22}
 
