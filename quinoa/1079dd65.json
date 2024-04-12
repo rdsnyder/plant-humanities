@@ -4,27 +4,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "This map of the Inca Empire, in Quechua known as Tahuantinsuyu, was produced by Clements Markham, a nineteenth century British geographer, in 1873.",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://raw.githubusercontent.com/mturetsky98/quinoa/main/IncaMap2.jpg",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:185.43276977539062,1107.7982177734375,447.6574401855469,485.140625"
-      },
-      "id": "1079dd65"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#ddffad39-dee5-4813-a79c-64dcb774492f"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "While the heart of the Inca empire was Cusco and the surrounding inter-Andean valleys, the Inca empire extended farther north and south than Markham's map shows.",
         "purpose": "commenting"
       }
@@ -40,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#f87e9019-0e14-493b-b5c4-dfb16daf767a"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This map of the Inca Empire, in Quechua known as Tahuantinsuyu, was produced by Clements Markham, a nineteenth century British geographer, in 1873.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://bxw3h77njs6t5nf7bo2vykqxvi0lzkxb.lambda-url.us-east-1.on.aws/iiif/3/82c1c53d1233b6f1137feabee6dd633ffaabc21347c1e58a021b4a836da60cd5",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:212.716552734375,1138.9796142578125,447.6574401855469,485.140625"
+      },
+      "id": "1079dd65"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ddffad39-dee5-4813-a79c-64dcb774492f"
   }
 ]
