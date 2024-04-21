@@ -15,7 +15,7 @@ Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ay
 ### "Vine of the Soul"
        
 Although many associate ayahuasca with a particular species of plant, it is the name of a group of Indigenous psychoactive <span eid="Q1136912">decoctions</span> made by boiling a combination of species found in certain regions of Amazonia. Ayahuasca is from the <span data-click-map-flyto="-13.5105, -71.9721, 6.5">Quechua</span> language: _aya_ meaning "soul, ancestors, or dead persons" and _waska_ meaning "vine or rope." Popular translations in English include "vine of the soul" and "rope of death."[^ref1] Among groups living in Ecuador, Colombia, Peru, and Brazil, ayahuasca is called _natema_, _hoasca_, _daime_, _yagé_, or _yajé_.
-<param ve-map basemap="Esri_WorldPhysical" center="-3.0122651992426195, -59.98159174927297" zoom="4.8" title="Map of South America, with Indigenous territories shown in green and Quechua territory in Peru shown in photo. GeoJSON files courtesy of Native Land Digital, 2015, CC0. https://native-land.ca/">
+<param ve-map basemap="Esri_WorldPhysical" center="-3.0122651992426195, -59.98159174927297" zoom="4" title="Map of South America, with Indigenous territories shown in green and Quechua territory in Peru shown in photo. GeoJSON files courtesy of Native Land Digital, 2015, CC0. https://native-land.ca/">
 <param ve-map-layer geojson active url="South_America_Native_Lands.json" title="Indigenous territories (green)." show-labels>
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/a/aa/The_town_of_Ocra_as_seen_from_the_air.jpg"
 	coords="-13.5105, -71.9721"
@@ -46,7 +46,7 @@ Consuming ayahuasca produces a roughly four-hour period of altered consciousness
 ### The Origins of Ayahuasca and Plant Knowledge 
 
 The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least 1,000 years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was found during the 2008 and 2010 excavatation of the <span data-click-map-flyto="-22.692, -67.757, 6.5">Cueva del Chileno</span> rock structure in the Sora Valley in <span eid="Q750">Bolivia</span>, associated with the ancient <span eid="Q61750">Tiwanaku</span> state. Chemical analysis conducted on harmine and DMT residue [indicates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6561276/) that _Banisteriopsis caapi_ and _Psychotria viridis_ were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle, so the plants were possibly inhaled directly) but it is possible that the two plants were combined even then to create an early ayahuasca decoction.[^ref10]
-<param ve-map basemap="Esri_WorldPhysical" center="-3.0122651992426195, -59.98159174927297" zoom="4.8" title="Map of South America showing Indigenous territories (green), Bolivia (purple), and Cueva del Chileno (photo). GeoJSON files courtesy of Native Land Digital, 2015, CC0. https://native-land.ca/">
+<param ve-map basemap="Esri_WorldPhysical" center="-3.0122651992426195, -59.98159174927297" zoom="4" title="Map of South America showing Indigenous territories (green), Bolivia (purple), and Cueva del Chileno (photo). GeoJSON files courtesy of Native Land Digital, 2015, CC0. https://native-land.ca/">
 <param ve-map-layer geojson active url="South_America_Native_Lands.json" title="Indigenous territories (green)." show-labels>
 <param ve-map-layer geojson active url="Bolivia.json" title="Bolivia (purple)." show-labels>
 <param ve-map-marker url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Juan_V._Albarracin-Jordan_Jose%CC%81_M._Capriles_Cueva_del_Chileno_EurekaAlert_no_known_copyright_restrictions.jpg?raw=true"
@@ -63,7 +63,7 @@ How did apparently isolated Amazonian communities come to know the synergistic e
        manifest="gh:plant-humanities/media/ayahuasca/Decorated_ritual_ceramic_vase_54-21-30%3A7536_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College.jpg"
        fit="contain">
 <param ve-image 
-       manifest="gh:plant-humanities/media/ayahuasca/Pottery_cup_with%20raised_base_35-25-30%3A1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_1.jpg"
+       manifest="gh:plant-humanities/media/ayahuasca/Pottery_cup_with_raised_base_35-25-30%3A1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_1.jpg"
        fit="contain">
 {#paragraph7}
 
