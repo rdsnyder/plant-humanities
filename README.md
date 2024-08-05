@@ -21,7 +21,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
-## 
+## Indigo: Layers of Paint, History, and Art
 [Indigo: Layers of Paint, History, and Art](indigo)
 
 - Jordan Noelle Smith
