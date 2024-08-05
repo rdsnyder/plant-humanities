@@ -28,7 +28,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Gianna Welty
 - Hayley Blair
 
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/indigo.jpg)
 
 ## Soybean: The Versatile Miracle Crop
 [Soybean: The Versatile Miracle Crop](soybean)
