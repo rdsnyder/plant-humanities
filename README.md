@@ -21,6 +21,15 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## 
+[Indigo: Layers of Paint, History, and Art](indigo)
+
+- Jordan Noelle Smith
+- Gianna Welty
+- Hayley Blair
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
+
 ## Soybean: The Versatile Miracle Crop
 [Soybean: The Versatile Miracle Crop](soybean)
 
@@ -160,7 +169,9 @@ This essay provides an approachable overview of herbarium specimens and how they
 ## Dracaena draco: The Mystery of Dragon’s Blood
 [Dracaena draco: The Mystery of Dragon’s Blood](dragon_tree)
 
-- Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian
+- Thomas C. Anderson
+- Cati Kalinoski
+- Lucas Mertehikian
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/dragon_tree.jpg)
 
